@@ -24,4 +24,4 @@ This repository tracks my journey through **480 hours** of industry experience. 
 ---
 
 > [!TIP]
-> This log focuses on **concepts** and **methodologies**. To maintain confidentiality, no proprietary code or internal company data is included.
+> This log focuses on technical concepts, personal growth, and industry observations. To respect company confidentiality, no proprietary source code or internal data is included.
