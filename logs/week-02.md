@@ -14,7 +14,7 @@
 * **Modern Control Flow:** Utilized `@if` for conditional rendering and `@for` for efficient list processing within Angular templates.
 
 ### 🚧 Challenges Faced
-* **Data Synchronization:** Initially struggled with the syntax for passing data back from child components. Overcame this by mastering the "Broadcast/Listener" pattern and ensuring TypeScript class names correctly matched component selectors.
+* **Data Synchronization:** Initially struggled with the syntax for passing data back from child components. As well as using the sufficient amount of brackets, etc.  Overcame this by recognizing pattern and ensuring TypeScript class names correctly matched component selectors.
 * **Portfolio Curation:** Deciding which projects to keep public. I learned that "quality over quantity" is better for a professional technical identity.
 
 ### ✅ Summary
