@@ -1,4 +1,4 @@
-# 📓 Internship Dev Log | Cor Logics Solution Inc.
+  # 📓 Internship Dev Log | Cor Logics Solution Inc.
 
 This repository tracks my journey through **486 hours** of industry experience. It serves as a record of my technical growth, problem-solving, and professional development.
 
@@ -7,7 +7,7 @@ This repository tracks my journey through **486 hours** of industry experience. 
 ### 📈 Progress Tracker
 | Phase | Status | Focus | Logs |
 | :--- | :--- | :--- | :--- |
-| **Weeks 1-4** | ✅ Completed | Onboarding & Fundamentals | [View Logs](logs/week-04.md) |
+| **Weeks 1-4** | ✅ Completed | Onboarding & Fundamentals | [View Summary](logs/Phase1.md) |
 | **Weeks 5-8** | 🏃 In Progress | Firebase & Logic Integration | [View Logs](logs/week-05.md) |
 | **Weeks 9-12** | ⏳ Pending | Project Completion | TBD |
 
