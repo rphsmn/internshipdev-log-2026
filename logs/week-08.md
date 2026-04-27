@@ -2,28 +2,35 @@
 **Date:** April 13 - April 17, 2026
 
 ### 🎯 Weekly Goals
-- [x] Deploy live testing environment via Vercel
-- [x] Implement Republic Act 11210 (Maternity/ETP) compliance logic
-- [x] Develop Audit Trail and Employee Lifecycle management (Add/Deactivate)
-- [x] Finalize mobile-responsive layouts for all system modules
+- [x] Launch live staging environment via Vercel
+- [x] Implement "Single Source of Truth" Audit Trail
+- [x] Develop Bulk Absenteeism tools for HR efficiency
+- [x] Finalize Employee Lifecycle management (Add/Deactivate/Reactivate)
 
 ### 💡 Key Learnings
-* **Legal Compliance Engineering:** Researched and integrated **RA 11210** logic for Maternity and Emergency Termination of Pregnancy (ETP). 
-    * Implemented "No Pause" logic for leave duration.
-    * Added informative tooltips referencing specific RA sections to increase employee awareness and transparency.
-* **Administrative Operations:** * Developed a **Bulk Absenteeism** tool, allowing HR to mark multiple employees absent in a single action.
-    * Engineered the **Employee Lifecycle** module (Add, Deactivate, and Reactivate functions) with maintainable backend logic.
-* **DevOps & Deployment:** Successfully deployed the HRIS to **Vercel** for stakeholder UAT (User Acceptance Testing). Managed environment variables and production build optimizations.
-* **System Observability:** Launched an **Audit Trail** as a "Single Source of Truth." Used a neutral color palette to reduce visual fatigue for HR users performing long-term monitoring.
+* **System Accountability:** Successfully implemented an **Audit Trail** to track system actions. I intentionally chose a **neutral, muted color palette** for this interface to reduce visual fatigue for HR users who monitor logs for long periods.
+
+* **Administrative UX:** Developed a **Bulk Absenteeism** feature. This allows HR to mark multiple people absent simultaneously, significantly reducing manual data entry during mass absentee events.
+
+* **DevOps & Deployment:** Migrated the project from local development to a live staging environment on **Vercel**. This involved managing production environment variables and ensuring the build was stable for external access.
+
+* **Employee Lifecycle Logic:** Engineered the **"Add Employee"** feature and integrated **Deactivate/Reactivate buttons.** This allows HR to manage inactive staff without deleting historical data, maintaining database integrity.
 
 ### 🚧 Challenges Faced
-* **Mobile Layout Regression:** Adding complex features like ETP leave and administrative forms caused layout shifts on smaller screens. Spent significant time re-polishing the **Employee Status page** for mobile-first compatibility.
-* **Data Privacy & Documentation:** Balanced the "Add Employee" form requirements with privacy standards and integrated a downloadable **User Manual** directly into the portal for onboarding.
+
+* **Production Refactoring:** Spent April 14th entirely on "Technical Debt"—debugging, polishing, and tidying up code files to ensure the Vercel deployment was clean and professional.
+
+* **Mobile Compatibility:** Polished the mobile version of the site to ensure all modules are now compatible with various phone and tablet dimensions.
+
 
 ### ✅ Achievements & Milestones
-* **UAT Ready:** The project is now live at `hris-corlogic.vercel.app` for cross-device testing.
-* **UI/UX Maturity:** Polished the **History Page** and **Add Employee form** specifically for Dark Mode, ensuring high visual clarity across all themes.
-* **Professional Reporting:** Enabled **Personal Record Printing** and emergency contact visibility for streamlined physical documentation.
+
+* **Staging Launch:** The HRIS is officially live for testing at hris-corlogic.vercel.app.
+
+* **Professional Reporting:** Updated the Profile page to include emergency contacts and enabled **Personal Record Printing** for physical documentation.
+
+* **Documentation:** Uploaded the **User Manual**, providing a complete guide for administrators to navigate the new system.
+
 
 ---
 *This log focuses on technical methodologies and architectural growth. No proprietary code is included.*
