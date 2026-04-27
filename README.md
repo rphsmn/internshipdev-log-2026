@@ -26,8 +26,8 @@ This repository tracks my journey through **486 hours** of industry experience. 
 | **06** | **Mar 30 - Apr 03** | Performance & Integrity | [Week 06 Log](logs/week-06.md) |
 | 07 | Apr 06 - Apr 10 | Security Architecture, Business Logic & UX Refinement | [Week 07 Log](logs/week-07.md) |
 | 08 | Apr 13 - Apr 17 | Deployment, Compliance & Administrative Tools | [Week 08 Log](logs/week-08.md) |
-| 09 | Apr 20 - Apr 24 | TBD | [Week 09 Log](logs/week-09.md) |
-| 10 | Apr 27 - May 01 | TBD | [Week 10 Log](logs/week-10.md) |
+| 09 | Apr 20 - Apr 24 | Legal Compliance & Database Integrity | [Week 09 Log](logs/week-09.md) |
+| 10 | Apr 27 - May 01 | **current week**| [Week 10 Log](logs/week-10.md) |
 | 11 | May 04 - May 08 | TBD | [Week 11 Log](logs/week-11.md) |
 | 12 | May 11 - May 15 | TBD | [Week 12 Log](logs/week-12.md) |
 
